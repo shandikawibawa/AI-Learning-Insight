@@ -1,6 +1,0 @@
-
-
-https://github.com/dicodingacademy/ilt-febe-2025/tree/06-backend-javascript
-
-authorizations :
-https://github.com/dicodingacademy/a271-backend-menengah-labs/blob/403-authorizations/notes-app-back-end/package.json
