@@ -1,0 +1,26 @@
+[
+  {
+    "iconName": "Trophy",
+    "title": "Pembelajaran Konsisten Luar Biasa!",
+    "description": "Kamu telah menyelesaikan materi setiap hari selama 12 hari berturut-turut. Pola belajar konsisten ini menunjukkan dedikasi tinggi dan meningkatkan retensi materi hingga 40%.",
+    "color": "yellow"
+  },
+  {
+    "iconName": "Brain",
+    "title": "Tipe Pembelajaran : Consistent Learner",
+    "description": "Analisis menunjukkan kamu belajar paling efektif dengan sesi rutin 2-3 jam per hari. Pertahankan ritme ini dan tingkatkan dengan variasi materi untuk hasil optimal.",
+    "color": "purple"
+  },
+  {
+    "iconName": "Target",
+    "title": "Area untuk Ditingkatkan",
+    "description": "Kamu menghabiskan 65% waktu di materi front-end. Coba eksplorasi back-end development untuk menjadi full-stack developer yang lebih komprehensif.",
+    "color": "blue"
+  },
+  {
+    "iconName": "TrendingUp",
+    "title": "Peningkatan Performa Mingguan",
+    "description": "Skor quiz kamu meningkat 25% dalam 2 minggu terakhir. Metode mengulas materi sebelum quiz terbukti sangat efektif untukmu!",
+    "color": "green"
+  }
+]
